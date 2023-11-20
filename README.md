@@ -1,6 +1,6 @@
 # G4_DSA_GradedProject2
 
-This propject assignmennt on DSA focuses on Linear and Non linear data structure aspects. Project is aimed to solve below two problem statements
+This project assignmennt on DSA focuses on Linear and Non linear data structure aspects. Project is aimed to solve below two problem statements
 ```
 1. Your friend is a chief architect, who is working on building a skyscraper, in Mumbai. The construction is in such a way that the floors will be constructed in other factories, and they will be assembled. All the   sizes will be distinct.
 
